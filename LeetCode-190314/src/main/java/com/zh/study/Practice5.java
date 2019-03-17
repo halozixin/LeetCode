@@ -1,5 +1,10 @@
 package com.zh.study;
 
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @auther zh
  * @data 2019/3/15 13:40
@@ -87,4 +92,5 @@ public class Practice5 {
 
         }
     }
+
 }
