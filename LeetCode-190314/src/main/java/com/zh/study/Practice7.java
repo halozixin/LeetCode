@@ -51,5 +51,4 @@ public class Practice7 {
         return t1;
     }
 
-
 }
