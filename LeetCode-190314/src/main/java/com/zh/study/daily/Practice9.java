@@ -1,8 +1,5 @@
-package com.zh.study;
+package com.zh.study.daily;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Scanner;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;

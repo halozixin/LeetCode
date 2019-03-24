@@ -1,7 +1,4 @@
-package com.zh.study;
-
-import java.util.HashMap;
-import java.util.Scanner;
+package com.zh.study.daily;
 
 /**
  * @auther zh

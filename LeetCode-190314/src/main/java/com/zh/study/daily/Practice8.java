@@ -1,6 +1,4 @@
-package com.zh.study;
-
-import java.util.Arrays;
+package com.zh.study.daily;
 
 /**
  * @auther zh

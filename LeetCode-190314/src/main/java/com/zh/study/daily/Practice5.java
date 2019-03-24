@@ -1,4 +1,4 @@
-package com.zh.study;
+package com.zh.study.daily;
 
 import java.util.Arrays;
 import java.util.Collections;
