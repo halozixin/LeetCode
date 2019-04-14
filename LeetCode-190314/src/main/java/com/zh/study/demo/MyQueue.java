@@ -4,6 +4,7 @@ package com.zh.study.demo;
  * @auther zh
  * @data 2019/4/13 19:46
  * 利用数组实现队列
+ *
  */
 public class MyQueue {
     private int[] queue;
